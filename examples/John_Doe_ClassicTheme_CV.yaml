@@ -21,7 +21,7 @@ cv:
       - institution: Princeton University
         area: Computer Science
         degree: PhD
-        date:
+        date: 2025-09
         start_date: 2018-09
         end_date: 2023-05
         location: Princeton, NJ
@@ -33,7 +33,7 @@ cv:
       - institution: Boğaziçi University
         area: Computer Engineering
         degree: BS
-        date:
+        date: 2025-09
         start_date: 2014-09
         end_date: 2018-06
         location: Istanbul, Türkiye
@@ -44,7 +44,7 @@ cv:
     experience:
       - company: Nexus AI
         position: Co-Founder & CTO
-        date:
+        date: 2025-09
         start_date: 2023-06
         end_date: present
         location: San Francisco, CA
@@ -66,7 +66,7 @@ cv:
           - Co-authored paper accepted at NeurIPS 2022 (spotlight presentation, top 5% of submissions)
       - company: Google DeepMind
         position: Research Intern
-        date:
+        date: 2025-09
         start_date: 2021-05
         end_date: 2021-08
         location: London, UK
@@ -79,7 +79,7 @@ cv:
             - Invited journal extension in JMLR (2023)
       - company: Apple ML Research
         position: Research Intern
-        date:
+        date: 2025-09
         start_date: 2020-05
         end_date: 2020-08
         location: Cupertino, CA
@@ -99,7 +99,7 @@ cv:
           - Research integrated into Azure Cognitive Services, reducing training data requirements by 60%
     projects:
       - name: '[FlashInfer](https://github.com/)'
-        date:
+        date: 2025-09
         start_date: 2023-01
         end_date: present
         location:
